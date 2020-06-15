@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<title>Assignment Solution for Module 2</title>
+<style type="text/css">
+	
+	h{
+		font-size:150%;
+	}
+	span {
+		background-color: pink;
+		border: 1px solid black;
+		float:right;
+		
+	}
+	p{
+		margin-top:27px;
+		font-size:19px;
+	}
+    span1{
+		background-color: red;
+		border: 1px solid black;
+		float:right;
+			
+	}
+	span2{
+		background-color:#FBCEB1;
+		border: 1px solid black;
+		float:right;
+		
+	}
+	.one{
+
+         height:150px;
+         width:430px;
+         border:1px solid black;
+         margin-left:10px;
+         background-color:lightgrey;
+	}
+	.two{
+
+         height:150px;
+         width:430px;
+         border:1px solid black;
+         margin-left:465px;
+         background-color:lightgrey;
+         margin-top:-150px;
+	}
+	.three{
+
+         height:150px;
+         width:430px;
+         border:1px solid black;
+         float:right;
+         background-color:lightgrey;
+         margin-top:-153px;
+	}
+</style>
+</head>
+<body>
+	<h1><center><b>Our  Menu</b></center></h1>
+	    <div class="one">
+	    <span> &nbsp chicken &nbsp</span>
+	    <p>lorem ipsum dolor sit omet, consectetur odipisicing elit, sed do eiusmod tempor inclididunt ut labore et dolore magna 
+
+aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequot.</p></div>
+		<div class="two">
+		<span1> &nbsp Beef &nbsp </span1>
+		<p>lorem ipsum dolor sit omet, consectetur odipisicing elit, sed do eiusmod tempor inclididunt ut labore et dolore 
+
+magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequot.</p>
+	    </div>
+		<div class="three">
+		<span2> &nbsp Sushi &nbsp </span2>
+		<p>lorem ipsum dolor sit omet, consectetur odipisicing elit, sed do eiusmod tempor inclididunt ut labore et dolore 
+
+magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequot.</p></div>	
+
+		
+</body>
+</html>
